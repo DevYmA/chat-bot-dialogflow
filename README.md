@@ -8,3 +8,8 @@ https://chatbot-a0b23.firebaseapp.com/
 #Intro Qiz
 Who are you?
 Are you crazy?
+
+#Usage
+Angular 6
+Bulma css
+DialogFlow
